@@ -1,0 +1,77 @@
+.barra{
+background: #9A80BC !important;
+text-align: center !important;
+font-family: cursive !important;
+height: 160px;
+}
+.color >li >a{
+    color: black !important;
+}
+body{
+    margin: 0px; 
+    padding: 0px;
+    background-color: #F8E0E4;
+}
+.bloquetitulo1{
+    width: 100%;
+    display: inline-block;
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 1px;
+    text-align: center;
+    color: rgb(170, 24, 102);
+}
+.Parrafo{
+    background-color: #9A80BC;
+    text-align: center;
+    color: rgb(58, 27, 43);
+}
+
+.bloquetitulo2{
+    width: 100%;
+    display: inline-block;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 1px;
+    text-align: center;
+    color: rgb(170, 24, 102);
+}
+
+.conocenos{
+    background-image: url(IMAGENES/limpia.png) !important;
+    background-image: fixed !important;
+    background-size: 100% !important;
+    width: auto;
+    height: auto;
+    position: absolute !important;
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.bloquetitulo3{
+    width: auto;
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 1px;
+    text-align: center !important;
+    color: rgb(70, 40, 56);
+    background-size: 100%;
+    font-family: cursive !important;
+}
+
+.bloquetitulo4{
+    width: auto;
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 1px;
+    text-align: !important;
+    color: rgb(70, 40, 56);
+    background-size: 100%;
+    font-family: cursive !important;
+}
